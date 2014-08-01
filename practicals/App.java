@@ -1,5 +1,5 @@
 //package App;
-class SuperClass
+class SuperClass //public class SuperClass
 {
     void Display()
     {
@@ -8,7 +8,7 @@ class SuperClass
       
 }
 
-class BaseClass extends SuperClass
+class BaseClass extends SuperClass//public class BaseClass extends SuperClass
 {
     void Display()
     {
