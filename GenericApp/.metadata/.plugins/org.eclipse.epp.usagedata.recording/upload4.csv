@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vendor,sysinfo,,,"Oracle Corporation",1414262880282
+java.version,sysinfo,,,"1.8.0_25",1414262880282
+java.vm.info,sysinfo,,,"mixed mode",1414262880282
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1414262880282
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1414262880282
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1414262880282
+java.vm.specification.version,sysinfo,,,"1.8",1414262880282
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1414262880282
+java.vm.version,sysinfo,,,"25.25-b02",1414262880282
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1414262880306
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1414262880331
+started,bundle,org.eclipse.xtend.typesystem.emf.ui,0.7.2.v200908120436,"org.eclipse.xtend.typesystem.emf.ui",1414262880345
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1414262884100
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1414262884171
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1414262884199
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.ProjectsView",1414262894240
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackagesView",1414262894283
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.TypesView",1414262894304
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.MembersView",1414262894340
+activated,perspective,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.JavaBrowsingPerspective",1414262894371
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.ProjectsView",1414262894377
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.perspectives.showPerspective",1414262894393
+executed,command,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.JavaBrowsingPerspective",1414262894394
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414262902143
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.perspectives.showPerspective",1414262917175
