@@ -1,0 +1,21 @@
+22:59:35 **** Incremental Build of configuration Debug for project CProj ****
+make all 
+make: Nothing to be done for `all'.
+22:59:39 **** Incremental Build of configuration Debug for project CProj ****
+make all 
+Building file: ../src/CProj.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/CProj.d" -MT"src/CProj.d" -o "src/CProj.o" "../src/CProj.c"
+Finished building: ../src/CProj.c
+ 
+Building target: CProj
+Invoking: GCC C Linker
+gcc  -o "CProj"  ./src/CProj.o   
+Finished building target: CProj
+ 
+23:00:31 **** Incremental Build of configuration Debug for project CProj ****
+make all 
+make: Nothing to be done for `all'.
+23:00:44 **** Incremental Build of configuration Debug for project CProj ****
+make all 
+make: Nothing to be done for `all'.

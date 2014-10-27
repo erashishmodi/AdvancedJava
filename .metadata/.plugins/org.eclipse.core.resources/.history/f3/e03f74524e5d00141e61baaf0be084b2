@@ -1,0 +1,11 @@
+package apm.generics.linkedlist;
+
+public class LinkedList {
+	public static void main(String argss[])
+	{
+		Node <String> node1=new Node<String>("Ashish");
+		Node <String> node2=new Node("Bhautik");
+		node1.next=node2;
+	}
+
+}

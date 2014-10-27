@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;GenericApp&apos;&#x0A;- Original project: &apos;GenericApp&apos;&#x0A;- Original element: &apos;apm.generics.Node.java&apos;" description="Delete element" element1="/src&lt;apm.generics{Node.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1414354676602" subPackages="false" version="1.0"/>
+</session>

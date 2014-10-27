@@ -17,9 +17,8 @@ public class LinkedList {
 		dummy=node1;
 		while(!(dummy.next==null))
 		{
-			System.out.println(dummy.getData());
 			dummy=dummy.next;
-			
+			System.out.println(dummy.getData());
 		}
 		
 		

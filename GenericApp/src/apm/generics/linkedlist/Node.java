@@ -2,7 +2,7 @@ package apm.generics.linkedlist;
 
 public class Node <T> {
 	private T data;
-	public Node next;
+	public Node <T> next;
 	
 	
 	public Node (T data)
